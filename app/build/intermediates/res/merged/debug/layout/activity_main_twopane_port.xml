@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".TipCalculatorActivity">
+
+    <fragment android:name="dougherty.tipcalculator.TipCalculatorFragment"
+              android:id="@+id/main_fragment"
+              android:layout_weight="1"
+              android:layout_height="0dp"
+              android:layout_width="match_parent"
+        tools:layout="@layout/fragment_tip_calculator"/>
+
+    <fragment android:name="dougherty.tipcalculator.SettingsFragment"
+              android:id="@+id/settings_fragment"
+              android:layout_weight="1"
+              android:layout_width="match_parent"
+              android:layout_height="0dp"
+        tools:layout="@layout/activity_about"/>
+
+</LinearLayout>

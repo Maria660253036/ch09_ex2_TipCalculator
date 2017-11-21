@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\660253036\\AndroidStudioProjects\\ch09_ex2_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_tip_calculator_twopane.xml",
+        "source": "C:\\Users\\660253036\\AndroidStudioProjects\\ch09_ex2_TipCalculator\\app\\src\\main\\res\\menu\\fragment_tip_calculator_twopane.xml"
+    },
+    {
+        "merged": "C:\\Users\\660253036\\AndroidStudioProjects\\ch09_ex2_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_tip_calculator.xml",
+        "source": "C:\\Users\\660253036\\AndroidStudioProjects\\ch09_ex2_TipCalculator\\app\\src\\main\\res\\menu\\fragment_tip_calculator.xml"
+    }
+]
